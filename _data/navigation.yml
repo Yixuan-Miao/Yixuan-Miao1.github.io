@@ -1,22 +1,19 @@
 # main links links
 main:
+  - title: "Elevator Pitch"
+    url: /Elevator Pitch/
+
+  - title: "News"
+    url: /News/    
+
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /Publications/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education History"
+    url: /Education History/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Work & Research Experiences"
+    url: /Work & Research Experiences/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Learn More About My Me"
+    url: /Learn More About My Me/
