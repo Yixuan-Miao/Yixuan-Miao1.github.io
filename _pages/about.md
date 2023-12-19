@@ -38,3 +38,5 @@ Example: editing a markdown file for a talk
 For more info 图
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=0dTBCZkP-enAdDn9m8ZC8z8kF7WZwJSUvVGi_uEgfZ8"></script>
