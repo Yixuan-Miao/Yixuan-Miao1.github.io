@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qAIgav0AAAAJ"
-  email            :
+  email            : "miao0045@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -112,7 +112,7 @@ author:
   twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             :
+  weichat          : "17748866479"
   youtube          :
   wikipedia        :
 
